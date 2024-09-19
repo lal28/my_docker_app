@@ -7,7 +7,7 @@
 - Lucas Araujo Lopes-Matricula-2023011063
 
 ### Descrição:
-- Aplicação em docker-compose consistindo em dois serviços: 
+Aplicação em docker-compose consistindo em dois serviços: 
 
 O primeiro serviço é uma aplicação web flask, a rota padrão dessa aplicação tem uma função que faz uma consulta a um banco de dados e mostra o resultado na tela.  
 
